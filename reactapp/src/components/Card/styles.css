@@ -1,0 +1,22 @@
+.card {
+  height: 125px;
+  width: 50%;
+
+  background: #f2c75b;
+  color: white;
+
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+  display: block;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+.card strong{
+    font-size: 34px;
+}
+.card small{
+    font-size: 25px;
+}
